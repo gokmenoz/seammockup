@@ -6,6 +6,10 @@ app = Flask(__name__)
 @app.route('/')
 def index_lulu():
     return render_template('tabs.html')
+
+@app.route('/district101')
+def index_lulu():
+    return render_template('district101.html')
     
 @app.route('/static/<path:path>')
 def static_file(path):
