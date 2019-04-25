@@ -7,7 +7,7 @@ app = Flask(__name__)
 def index_lulu():
     return render_template('tabs.html')
 
-@app.route('/district101.html',methods=['GET','POST])
+@app.route('/district101.html',methods=['GET','POST'])
 def dist_lulu():
     return render_template('district101.html')
 
