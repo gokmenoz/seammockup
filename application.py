@@ -3,11 +3,11 @@ from flask import Flask,render_template,request
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/',method=['GET','POST'])
 def index_lulu():
     return render_template('tabs.html')
 
-@app.route('/district101.html',method=['POST'])
+@app.route('/district101.html',method=['GET','POST'])
 def dist_lulu():
     return render_template('district101.html')
 
