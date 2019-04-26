@@ -12,9 +12,9 @@ def tabs_lulu():
     return render_template('tabsurl.html')
     
 
-@app.route('/district.html',methods=['GET','POST'])
+@app.route('/district101.html',methods=['GET','POST'])
 def dist_lulu():
-    return render_template('district.html')
+    return render_template('district101.html')
 
 @app.route('/static/<path:path>')
 def static_file(path):
