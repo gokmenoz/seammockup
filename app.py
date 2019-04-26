@@ -9,7 +9,7 @@ def index_lulu():
 
 @app.route('/tabs',methods=['GET','POST'])
 def tabs_lulu():
-    return render_template('tabsurl.html')
+    return render_template('tabsbokehupdated.html')
     
 
 @app.route('/district101.html',methods=['GET','POST'])
