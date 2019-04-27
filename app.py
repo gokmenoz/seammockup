@@ -83,6 +83,103 @@ def dist_lulu_210():
 @app.route('/district211.html',methods=['GET','POST'])
 def dist_lulu_211():
     return render_template('district211.html')
+@app.route('/district301.html',methods=['GET','POST'])
+def dist_lulu_301():
+    return render_template('district301.html')
+@app.route('/district302.html',methods=['GET','POST'])
+def dist_lulu_302():
+    return render_template('district302.html')
+@app.route('/district303.html',methods=['GET','POST'])
+def dist_lulu_303():
+    return render_template('district303.html')
+@app.route('/district307.html',methods=['GET','POST'])
+def dist_lulu_307():
+    return render_template('district307.html')
+@app.route('/district308.html',methods=['GET','POST'])
+def dist_lulu_308():
+    return render_template('district308.html')
+@app.route('/district309.html',methods=['GET','POST'])
+def dist_lulu_309():
+    return render_template('district309.html')
+@app.route('/district310.html',methods=['GET','POST'])
+def dist_lulu_310():
+    return render_template('district310.html')
+@app.route('/district311.html',methods=['GET','POST'])
+def dist_lulu_311():
+    return render_template('district311.html')
+@app.route('/district312.html',methods=['GET','POST'])
+def dist_lulu_312():
+    return render_template('district312.html')
+@app.route('/district313.html',methods=['GET','POST'])
+def dist_lulu_313():
+    return render_template('district313.html')
+@app.route('/district314.html',methods=['GET','POST'])
+def dist_lulu_314():
+    return render_template('district314.html')
+@app.route('/district315.html',methods=['GET','POST'])
+def dist_lulu_315():
+    return render_template('district315.html')
+@app.route('/district316.html',methods=['GET','POST'])
+def dist_lulu_316():
+    return render_template('district316.html')
+@app.route('/district317.html',methods=['GET','POST'])
+def dist_lulu_317():
+    return render_template('district317.html')
+@app.route('/district318.html',methods=['GET','POST'])
+def dist_lulu_318():
+    return render_template('district318.html')
+@app.route('/district401.html',methods=['GET','POST'])
+def dist_lulu_401():
+    return render_template('district401.html')
+@app.route('/district402.html',methods=['GET','POST'])
+def dist_lulu_401():
+    return render_template('district402.html')
+@app.route('/district403.html',methods=['GET','POST'])
+def dist_lulu_403():
+    return render_template('district403.html')
+@app.route('/district404.html',methods=['GET','POST'])
+def dist_lulu_404():
+    return render_template('district404.html')
+@app.route('/district405.html',methods=['GET','POST'])
+def dist_lulu_405():
+    return render_template('district405.html')
+@app.route('/district406.html',methods=['GET','POST'])
+def dist_lulu_406():
+    return render_template('district406.html')
+@app.route('/district407.html',methods=['GET','POST'])
+def dist_lulu_407():
+    return render_template('district407.html')
+@app.route('/district408.html',methods=['GET','POST'])
+def dist_lulu_408():
+    return render_template('district408.html')
+@app.route('/district409.html',methods=['GET','POST'])
+def dist_lulu_409():
+    return render_template('district409.html')
+@app.route('/district410.html',methods=['GET','POST'])
+def dist_lulu_410():
+    return render_template('district410.html')
+@app.route('/district411.html',methods=['GET','POST'])
+def dist_lulu_411():
+    return render_template('district411.html')
+@app.route('/district412.html',methods=['GET','POST'])
+def dist_lulu_412():
+    return render_template('district412.html')
+@app.route('/district413.html',methods=['GET','POST'])
+def dist_lulu_413():
+    return render_template('district413.html')
+@app.route('/district414.html',methods=['GET','POST'])
+def dist_lulu_414():
+    return render_template('district414.html')
+@app.route('/district501.html',methods=['GET','POST'])
+def dist_lulu_501():
+    return render_template('district501.html')
+@app.route('/district502.html',methods=['GET','POST'])
+def dist_lulu_502():
+    return render_template('district502.html')
+@app.route('/district503.html',methods=['GET','POST'])
+def dist_lulu_503():
+    return render_template('district503.html')
+
 
 
 
