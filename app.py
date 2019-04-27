@@ -132,7 +132,7 @@ def dist_lulu_318():
 def dist_lulu_401():
     return render_template('district401.html')
 @app.route('/district402.html',methods=['GET','POST'])
-def dist_lulu_401():
+def dist_lulu_402():
     return render_template('district402.html')
 @app.route('/district403.html',methods=['GET','POST'])
 def dist_lulu_403():
